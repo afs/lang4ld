@@ -71,6 +71,5 @@ public class LangTagParser {
                            lc.getCountry(),
                            lc.getVariant(),
                            extension);
-
     }
 }
